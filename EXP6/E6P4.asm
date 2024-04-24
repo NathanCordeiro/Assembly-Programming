@@ -1,3 +1,5 @@
+;ALP for the Bubble sort algorithm using macros with the users input
+
 %macro write 2
 PUSHA
 mov eax,4
