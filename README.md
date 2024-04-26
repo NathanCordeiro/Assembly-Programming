@@ -19,7 +19,7 @@ Make sure that you are in the same directory as where you saved hello.asm.
 *If you have done everything correctly, it will display 'Hello, world!' on the screen.*
 
 #
-## Contents of the Tutorial : 
+## Contents of the Course: 
 ---
 ### -> Experiment01 :
     1. Program to display two strings.
@@ -31,17 +31,18 @@ Make sure that you are in the same directory as where you saved hello.asm.
     3. Program to implement simple mathematical operations -i.e- (+ - / *).
 
 ### -> Experiment03 :
-    1. Program to generate numbers from 1-9.
+    1. Program to generate numbers from 1-4 using loops.
     2. Program to check whether entered number is Even or Odd.
     3. Program to check whether entered number is Positive or Negative.
     4. Program to find the greatest of three numbers.
 
 ### -> Experiment04 : 
-    1. Program to convert a hexadecimal number to ASCII
-    2. Program to count the number of positive and negative numbers from the array using procedures
-    3. Program to count the number of odd and even numbers from the array using procedures
-    4. Program to convert loowercase character to uppercase using procedures
-    5. Program to convert uppercase character to lowercase using procedures
+    1. Program to convert a hexadecimal number to ASCII.
+    2. Program to count the number of positive and negative numbers from the array using procedures.
+    3. Program to count the number of odd and even numbers from the array using procedures.
+    4. Program to convert loowercase character to uppercase using procedures.
+    5. Program to convert uppercase character to lowercase using procedures.
+    6. Program to convert a string to uppercase.
     
 ### -> Experiment05 : 
     1. Program to display string using macros.
